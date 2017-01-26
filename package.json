@@ -1,11 +1,14 @@
 {
   "name": "lloogg",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A rreeaallyy simple log utility",
   "main": "index.js",
-  "repository": {},
+  "repository": "nkpfstr/lloogg",
   "author": "Nick Pfisterer <nick@lunamachine.net>",
   "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "dependencies": {
     "chalk": "^1.1.3"
   }
