@@ -1,0 +1,12 @@
+{
+  "name": "lloogg",
+  "version": "0.0.0",
+  "description": "A rreeaallyy simple log utility",
+  "main": "index.js",
+  "repository": {},
+  "author": "Nick Pfisterer <nick@lunamachine.net>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
