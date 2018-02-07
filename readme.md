@@ -20,7 +20,8 @@ log.error('Something broke. Oh no.')
 log.success('Something worked! You deserve cheesecake.')
 ```
 
-Output
+Output:
+
 ![Output with default settings](assets/screenshot-default.png)
 
 ### Adding timestamps
@@ -37,7 +38,8 @@ log.error('Something broke. Oh no.')
 log.success('Something worked! You deserve cheesecake.')
 ```
 
-Output
+Output:
+
 ![Output with timestamps](assets/screenshot-timestamp.png)
 
 ## API
