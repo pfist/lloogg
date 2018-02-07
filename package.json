@@ -2,14 +2,23 @@
   "name": "lloogg",
   "version": "0.1.0",
   "description": "A rreeaallyy simple log utility",
-  "main": "index.js",
-  "repository": "nkpfstr/lloogg",
-  "author": "Nick Pfisterer <nick@lunamachine.net>",
+  "keywords": [
+    "log",
+    "logging",
+    "timestamp",
+    "tools"
+  ],
+  "homepage": "https://github.com/polymoon/lloogg",
+  "bugs": "https://github.com/polymoon/lloogg/issues",
+  "repository": "polymoon/lloogg",
   "license": "MIT",
+  "author": "Nick Pfisterer <nick@lunamachine.net>",
+  "main": "index.js",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=8.9.x"
   },
   "dependencies": {
-    "chalk": "^1.1.3"
+    "chalk": "^2.3.0",
+    "luxon": "^0.4.0"
   }
 }
